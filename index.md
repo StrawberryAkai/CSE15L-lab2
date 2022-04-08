@@ -31,5 +31,6 @@ Horizontal Rule:
 ---
 
 Link:
-[Link](www.google.com)
+[Google](www.google.com)
+![Image](http://url/b.jpg)
 

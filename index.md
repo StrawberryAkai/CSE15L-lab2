@@ -34,5 +34,5 @@ Link:
 [Google](www.google.com)
 
 Image Link:
-![Image](http://url/b.jpg)
+![Image](http://url/a.png)
 

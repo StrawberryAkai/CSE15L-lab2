@@ -59,7 +59,7 @@
 
 
 <h5 align = "center">
-   <span style = "font-size: 30px"> Setting an <span style = "color: blue">SSH </span> Key and Moving files with <span style = "color: blue">SCP</span>
+   <span style = "font-size: 30px"> Setting an <span style = "color: blue">SSH </span> Key and Moving files with <span style = "color: blue">SCP</span></span>
        
 </h5>
 

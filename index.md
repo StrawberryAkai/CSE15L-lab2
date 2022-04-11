@@ -85,14 +85,15 @@
 
     * <span style = "font-size:18px"> In general, if you are trying upload file from your current file, simply just do <span style = "color:green">scp (name of the file) (ieng6 email):~/</span> this will upload your file to the main folder, but if you want to upload file to a specific folder, type the exist folder in your remote computer after <span style = "color:green"> ~/</span>.
 
-    * <span style = "font-size:18px"> For exmaple, if I want to upload this file to the "hello" folder, I need to type <span style = "color:green">scp lab-report-1-week-2.md cs15lsp22@ieng6.ucsd.edu:~/hello
+    * <span style = "font-size:18px"> For exmaple, if I want to upload this file to the "hello" folder, I need to type <span style = "color:green">scp lab-report-1-week-2.md cs15lsp22@ieng6.ucsd.edu:~/hello </span> </span>
 
-       <center>
+<center>
 <span style = "font-size:30px"> Tips</center>
 
 * <span style = "font-size:18px"> When typing command lines in terminal, you can always use tab to autofill codes or file's name.
 
 * <span style = "font-size:18px"> Using the up or down arrow key may help you save some times when your previous command has some errors in it.
+
 
     
 

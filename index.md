@@ -87,6 +87,13 @@
 
     * <span style = "font-size:18px"> For exmaple, if I want to upload this file to the "hello" folder, I need to type <span style = "color:green">scp lab-report-1-week-2.md cs15lsp22@ieng6.ucsd.edu:~/hello
 
+       <center>
+<span style = "font-size:30px"> Tips</center>
+
+* <span style = "font-size:18px"> When typing command lines in terminal, you can always use tab to autofill codes or file's name.
+
+* <span style = "font-size:18px"> Using the up or down arrow key may help you save some times when your previous command has some errors in it.
+
     
 
 

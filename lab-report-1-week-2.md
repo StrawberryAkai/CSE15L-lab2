@@ -64,7 +64,7 @@
 * <span style = "font-size:18px"> Using the up or down arrow key may help you save some times when your previous command has some errors in it.
 
 <h5 align = "center">
-    <span style = "font-size: 30px"> Setting an <span style = "color: blue">SSH </span> Key and Moving files with <span style = "color: blue">SCP</span>
+    <span style = "font-size: 30px"> Setting an <span style = "color: blue">SSH </span> Key and Moving files with <span style = "color: blue">SCP</span> </span>
 </h5>
 
 * <span style = "font-size: 18px">If you are those type of person that doesn't like entering password every single time, then this is designed for you.

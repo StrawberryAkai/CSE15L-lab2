@@ -57,9 +57,7 @@
 
     ![Image](pwd.png)
 
-<center>
 <span style = "font-size:30px"> Tips
-</center>
 
 * <span style = "font-size:18px"> When typing command lines in terminal, you can always use tab to autofill codes or file's name.
 
